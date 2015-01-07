@@ -60,7 +60,7 @@ class Project < ActiveRecord::Base
 end
 ```
 
-### app/assets/javascripts/validate.js.coffee
+### Create app/assets/javascripts/validate.js.coffee
 
 ```
 jQuery ->
