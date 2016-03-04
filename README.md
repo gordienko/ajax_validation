@@ -7,7 +7,7 @@ AjaxValidation allows easy client side form validation for Rails 4.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ajax_validation'
+gem 'ajax_validation', github: 'gordienko/ajax_validation'
 ```
 
 And then execute:
